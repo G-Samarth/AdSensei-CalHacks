@@ -1,0 +1,1504 @@
+{
+  "assets": [
+    {
+      "id": "0d149293-6029-478a-9f0b-72d974178f7e",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0001.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "Promotional advertisement for Crunch Fitness offering a limited-time membership deal.",
+        "catchiness_level": 8,
+        "aesthetics_score": 7,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "urgent",
+        "product_category": "Fitness",
+        "detected_text": [
+          "48 hours. That's it. Don't miss your chance to sign up for 1¢ down (reg $75) & get 1 Month FREE before it expires tomorrow! Code auto-applied at Crunch.com",
+          "1¢ TO JOIN",
+          "& GET 1 MONTH FREE!",
+          "MEMBERSHIPS STARTING AT $9.99/MO",
+          "JOIN AT CRUNCH.COM"
+        ],
+        "detected_logos": [
+          "Crunch Fitness"
+        ],
+        "objects": [
+          "gym equipment",
+          "people working out",
+          "fitness center"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "black",
+            "orange",
+            "white"
+          ],
+          "composition_notes": "The image features a dynamic gym environment with active individuals, emphasizing urgency and engagement.",
+          "style_keywords": [
+            "promotional",
+            "dynamic",
+            "fitness",
+            "urgent"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "18-35",
+            "35-50"
+          ],
+          "interests": [
+            "fitness",
+            "health",
+            "gym",
+            "exercise"
+          ],
+          "regions": [
+            "College Station",
+            "Texas"
+          ]
+        },
+        "best_platforms": [
+          "Facebook",
+          "Instagram",
+          "Twitter"
+        ],
+        "improvement_suggestions": [
+          "Add a call-to-action button for immediate sign-up",
+          "Include testimonials or success stories",
+          "Highlight unique gym features"
+        ],
+        "reasons_for_scores": [
+          "High readability due to clear text and layout",
+          "Catchiness enhanced by urgency and promotional offer",
+          "Aesthetics score reflects a modern gym environment"
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 7,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "ce26366b-4a11-4b83-b167-57c8503c6e05",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0002.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "Advertisement for Crunch Fitness membership options highlighting various plans and amenities.",
+        "catchiness_level": 7,
+        "aesthetics_score": 6,
+        "readability_score": 8,
+        "brand_fit_score": 9,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "Fitness",
+        "detected_text": [
+          "MEMBERSHIP OPTIONS",
+          "OUR AMENITIES",
+          "Annual Commitment?",
+          "State-of-the-Art Equipment",
+          "Miles of Cardio",
+          "Cancel Anytime",
+          "Awesome Group Fitness Classes",
+          "Access to over 500+ Crunch Gyms",
+          "Unlimited HydroMassage®",
+          "Access to Kids Crunch",
+          "Unlimited Ride Studio",
+          "Unlimited Guest Privileges",
+          "Unlimited HIITZone Classes",
+          "Today's Total",
+          "Enrollment Fee",
+          "1st Month's Dues",
+          "Prorated Annual Fee",
+          "Total",
+          "SQUATober starts now!",
+          "$1 to join + ALL October FREE with Code SQUAT."
+        ],
+        "detected_logos": [
+          "crunchgainesville",
+          "CRUNCH FITNESS"
+        ],
+        "objects": [
+          "membership options",
+          "fitness equipment",
+          "pricing table"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "#000000",
+            "#FFFFFF",
+            "#FF0000",
+            "#00FF00"
+          ],
+          "composition_notes": "Clear layout with sections for different membership options and amenities.",
+          "style_keywords": [
+            "modern",
+            "clean",
+            "informative"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "18-35",
+            "35-50"
+          ],
+          "interests": [
+            "fitness",
+            "health",
+            "gym",
+            "wellness"
+          ],
+          "regions": [
+            "Gainesville",
+            "Florida"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Twitter"
+        ],
+        "improvement_suggestions": [
+          "Add more visuals of the gym",
+          "Include testimonials from members",
+          "Highlight unique selling points more prominently"
+        ],
+        "reasons_for_scores": [
+          "Clear and informative layout enhances readability.",
+          "Positive sentiment due to promotional offer.",
+          "Brand fit is strong as it aligns with fitness and wellness themes."
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 6,
+          "readability": 8,
+          "brandFit": 9,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "928ce62c-db2e-4487-91ba-c6697b5e642f",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0003.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "Promotional advertisement for Mercedes-Benz Sprinter vans highlighting a sales event with customer cash offers.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 9,
+        "brand_fit_score": 9,
+        "memorability_score": 8,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "automotive",
+        "detected_text": [
+          "30 Years of Sprinter",
+          "Summer Sales Event",
+          "For 2025 Cargo and Crew Sprinters, get",
+          "$2,000* Customer Cash",
+          "$3,000** Customer Cash for Medium Fleet"
+        ],
+        "detected_logos": [
+          "Mercedes-Benz"
+        ],
+        "objects": [
+          "Sprinter van",
+          "Cargo van",
+          "Crew van"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "black",
+            "white",
+            "blue"
+          ],
+          "composition_notes": "The layout is clean and emphasizes the offers with a clear visual hierarchy.",
+          "style_keywords": [
+            "modern",
+            "professional",
+            "promotional"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "25-54"
+          ],
+          "interests": [
+            "business",
+            "transportation",
+            "commercial vehicles"
+          ],
+          "regions": [
+            "USA"
+          ]
+        },
+        "best_platforms": [
+          "Facebook",
+          "Instagram",
+          "LinkedIn"
+        ],
+        "improvement_suggestions": [
+          "Add a call-to-action button",
+          "Include customer testimonials",
+          "Highlight unique features of the Sprinter"
+        ],
+        "reasons_for_scores": [
+          "Strong visual appeal with high-quality images",
+          "Clear and concise messaging",
+          "Effective use of promotional offers"
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 9,
+          "brandFit": 9,
+          "memorability": 8
+        }
+      }
+    },
+    {
+      "id": "e4b8b6e9-b9ad-4fa3-a52a-d4972fe5c0d3",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0004.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "Advertisement for leasing a luxury SUV with pricing details prominently displayed.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 6,
+        "brand_fit_score": 9,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "automotive",
+        "detected_text": [
+          "Lease the 2026 GLE 450 4MATIC Coupe: $999/mo for 36 mos, $7,293 due at signing*",
+          "The 2026 GLE 450 4MATIC Coupe",
+          "$999/mo for 36 months",
+          "$7,293 due at lease signing*",
+          "Optional equipment shown."
+        ],
+        "detected_logos": [
+          "Mercedes-Benz"
+        ],
+        "objects": [
+          "car",
+          "road",
+          "building"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "black",
+            "white",
+            "silver"
+          ],
+          "composition_notes": "The car is prominently displayed in the foreground with a blurred background, emphasizing the vehicle.",
+          "style_keywords": [
+            "luxury",
+            "modern",
+            "sleek"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "30-55"
+          ],
+          "interests": [
+            "luxury vehicles",
+            "automotive technology",
+            "leasing options"
+          ],
+          "regions": [
+            "USA"
+          ]
+        },
+        "best_platforms": [
+          "Facebook",
+          "Instagram",
+          "Google Ads"
+        ],
+        "improvement_suggestions": [
+          "Increase contrast for better readability",
+          "Add a call-to-action button"
+        ],
+        "reasons_for_scores": [
+          "Strong brand presence with Mercedes-Benz logo",
+          "Clear pricing information enhances transparency",
+          "High-quality image of the vehicle appeals to luxury market"
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 6,
+          "brandFit": 9,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "05e82953-8f23-4514-816d-d99e4c74ec91",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0005.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "Advertisement for the NEW Oktoberfest Egg Sandwich featuring a pretzel bagel with various toppings.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "inviting",
+        "product_category": "food",
+        "detected_text": [
+          "Try the NEW Oktoberfest Egg Sandwich",
+          "Pretzel Bagel",
+          "with Bacon, Ham, Swiss & Beer Cheese Shmear",
+          "It won't last long!",
+          "Oktoberfest Egg Sandwich"
+        ],
+        "detected_logos": [
+          "Einstein Bros. Bagels"
+        ],
+        "objects": [
+          "egg sandwich",
+          "pretzel bagel",
+          "bacon",
+          "ham",
+          "swiss cheese",
+          "beer cheese"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "#D69A6E",
+            "#C8B09A",
+            "#F5E1A4",
+            "#A0522D"
+          ],
+          "composition_notes": "The sandwich is prominently displayed in the center with a warm background, enhancing the food's appeal.",
+          "style_keywords": [
+            "appetizing",
+            "warm",
+            "inviting",
+            "festive"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "18-34",
+            "35-50"
+          ],
+          "interests": [
+            "food",
+            "snacking",
+            "festivals",
+            "casual dining"
+          ],
+          "regions": [
+            "North America"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Twitter"
+        ],
+        "improvement_suggestions": [
+          "Include a call-to-action button for immediate ordering.",
+          "Add customer testimonials or reviews for credibility."
+        ],
+        "reasons_for_scores": [
+          "The catchy phrase 'It won't last long!' creates urgency.",
+          "High-quality image of the sandwich enhances visual appeal.",
+          "Clear and concise text makes it easy to read."
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "03619e96-feb3-4239-94f2-44fdf1525d84",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0006.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "Advertisement for a new bagel product featuring a pretzel bagel with dips.",
+        "catchiness_level": 8,
+        "aesthetics_score": 7,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "inviting",
+        "product_category": "food",
+        "detected_text": [
+          "Here for a fun time not a long time!",
+          "Try the NEW Pretzel Bagel Double Dipper with Beer Cheese Shmear & mustard",
+          "NEW!",
+          "Pretzel Bagel Double Dipper",
+          "Order now"
+        ],
+        "detected_logos": [
+          "Einstein Bros. Bagels"
+        ],
+        "objects": [
+          "pretzel bagel",
+          "beer cheese shmear",
+          "mustard",
+          "dips"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "yellow",
+            "brown",
+            "white"
+          ],
+          "composition_notes": "The image is centered with the product prominently displayed, and text is layered in the background for emphasis.",
+          "style_keywords": [
+            "bright",
+            "fun",
+            "modern"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "18-34",
+            "35-50"
+          ],
+          "interests": [
+            "food",
+            "snacking",
+            "casual dining"
+          ],
+          "regions": [
+            "North America"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Twitter"
+        ],
+        "improvement_suggestions": [
+          "Increase visual contrast between text and background",
+          "Add a call-to-action button",
+          "Include customer testimonials"
+        ],
+        "reasons_for_scores": [
+          "Bright colors enhance catchiness",
+          "Clear and bold text improves readability",
+          "Product imagery is appealing and relevant"
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 7,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "d03c52f0-63ff-490e-b7aa-720b7d93bde8",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0007.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "An advertisement for Xero Shoes featuring a lightweight sandal.",
+        "catchiness_level": 6,
+        "aesthetics_score": 7,
+        "readability_score": 8,
+        "brand_fit_score": 9,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "footwear",
+        "detected_text": [
+          "Shop Now",
+          "Designed for people who never stop moving. Xero Shoes blend natural flexibility with soft, lightweight comfort."
+        ],
+        "detected_logos": [
+          "xeroshows"
+        ],
+        "objects": [
+          "sandal"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "black",
+            "blue",
+            "green"
+          ],
+          "composition_notes": "The sandal is centered with a clean background, emphasizing the product.",
+          "style_keywords": [
+            "minimalist",
+            "functional",
+            "active"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "18-34",
+            "35-50"
+          ],
+          "interests": [
+            "outdoor activities",
+            "fitness",
+            "travel"
+          ],
+          "regions": [
+            "North America",
+            "Europe"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Pinterest"
+        ],
+        "improvement_suggestions": [
+          "Add lifestyle imagery to show the product in use.",
+          "Include customer testimonials for added credibility."
+        ],
+        "reasons_for_scores": [
+          "The product design is appealing and aligns with active lifestyles.",
+          "The text is clear and effectively communicates the product's benefits.",
+          "The overall aesthetic is clean and modern."
+        ],
+        "dimension_profile": {
+          "creative_attention": 7,
+          "aesthetics": 7,
+          "readability": 8,
+          "brandFit": 9,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "f5c7dd4a-8593-4767-9a31-ceab7a0631c3",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0008.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "Advertisement for Xero Shoes promoting a 10% discount on footwear.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "footwear",
+        "detected_text": [
+          "Save 10% sitewide on foot-shaped comfort—zero-drop, flexible footwear for natural movement.",
+          "10% OFF SITEWIDE",
+          "XERO SHOES",
+          "Learn more",
+          "10% Off Sitewide"
+        ],
+        "detected_logos": [
+          "Xero Shoes"
+        ],
+        "objects": [
+          "shoes"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "blue",
+            "gray",
+            "red",
+            "white"
+          ],
+          "composition_notes": "The shoe is prominently displayed with a clean background, emphasizing the product and discount offer.",
+          "style_keywords": [
+            "modern",
+            "minimalistic",
+            "sporty"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "18-35",
+            "35-50"
+          ],
+          "interests": [
+            "fitness",
+            "outdoor activities",
+            "sustainable living"
+          ],
+          "regions": [
+            "North America",
+            "Europe"
+          ]
+        },
+        "best_platforms": [
+          "Facebook",
+          "Instagram",
+          "Pinterest"
+        ],
+        "improvement_suggestions": [
+          "Add a call-to-action button for immediate purchase",
+          "Include customer testimonials or reviews",
+          "Highlight unique selling points more prominently"
+        ],
+        "reasons_for_scores": [
+          "The advertisement has a clear and attractive design that draws attention.",
+          "The discount offer is prominently displayed, enhancing catchiness.",
+          "The text is easy to read and conveys the message effectively.",
+          "The brand aligns well with the product being advertised."
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "2a0eb174-df1f-47a6-9468-cfab64500f7a",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0009.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "An advertisement promoting a bed designed for back pain relief, featuring a man lying on the bed with a focus on comfort and pricing.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "mattresses",
+        "detected_text": [
+          "MEET THE BED FOR BACK PAIN",
+          "relief",
+          "from $1,299",
+          "Relieves pressure",
+          "Promoted by Sleep Number"
+        ],
+        "detected_logos": [
+          "Sleep Number"
+        ],
+        "objects": [
+          "bed",
+          "man",
+          "pillow"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "blue",
+            "white",
+            "grey"
+          ],
+          "composition_notes": "The image features a calming color palette with a focus on the product and a relaxed individual, enhancing the message of comfort.",
+          "style_keywords": [
+            "modern",
+            "minimalist",
+            "comfort"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "25-45",
+            "45-65"
+          ],
+          "interests": [
+            "health",
+            "wellness",
+            "sleep improvement"
+          ],
+          "regions": [
+            "North America"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Google Ads"
+        ],
+        "improvement_suggestions": [
+          "Add customer testimonials",
+          "Include a call to action",
+          "Highlight unique features of the bed"
+        ],
+        "reasons_for_scores": [
+          "High readability due to clear text",
+          "Aesthetically pleasing design with a calming color scheme",
+          "Positive sentiment from the focus on relief and comfort"
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "2977ab28-1d5b-45bf-b0a3-f514d949ca2b",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0010.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "Advertisement for Sleep Number's ClimateCool smart bed highlighting its cooling feature.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "bedding",
+        "detected_text": [
+          "SLEEP UP TO",
+          "15° cooler*",
+          "ClimateCool® smart bed",
+          "Cooling you control",
+          "Promoted by Sleep Number"
+        ],
+        "detected_logos": [
+          "Sleep Number"
+        ],
+        "objects": [
+          "smart bed",
+          "mattress",
+          "bedroom furniture"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "teal",
+            "white",
+            "gray"
+          ],
+          "composition_notes": "Simple and clean layout with a focus on the product.",
+          "style_keywords": [
+            "modern",
+            "minimalist",
+            "informative"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "25-45",
+            "45-65"
+          ],
+          "interests": [
+            "home improvement",
+            "sleep health",
+            "technology"
+          ],
+          "regions": [
+            "North America"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Pinterest"
+        ],
+        "improvement_suggestions": [
+          "Add a testimonial or review",
+          "Include a call to action",
+          "Show a lifestyle image with people using the product"
+        ],
+        "reasons_for_scores": [
+          "Strong visual appeal with modern design",
+          "Clear and concise messaging",
+          "High readability with minimal text"
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "4b4c0881-4e11-4a04-b342-457b3bdfdb44",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0011.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "An advertisement promoting Niche Engage, a personalized communication platform for schools.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "Education Technology",
+        "detected_text": [
+          "60% of families consider multiple schools.",
+          "Turn interest into applications, FASTER.",
+          "With the ultimate personalized communications platform.",
+          "Hi Emily! It’s Central Academy. We have a special message about your acceptance, check it out here.",
+          "Attract, enroll and retain families with Niche Engage."
+        ],
+        "detected_logos": [
+          "Niche"
+        ],
+        "objects": [
+          "smartphone",
+          "chat bubble",
+          "button"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "#F8BBD0",
+            "#FFFFFF",
+            "#4CAF50"
+          ],
+          "composition_notes": "The layout is clean and visually appealing, with a focus on the text and call-to-action.",
+          "style_keywords": [
+            "modern",
+            "professional",
+            "engaging"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "25-45"
+          ],
+          "interests": [
+            "education",
+            "technology",
+            "parenting"
+          ],
+          "regions": [
+            "North America"
+          ]
+        },
+        "best_platforms": [
+          "Facebook",
+          "Instagram",
+          "LinkedIn"
+        ],
+        "improvement_suggestions": [
+          "Include a video demonstration of the platform.",
+          "Add testimonials from satisfied users.",
+          "Highlight specific features of the platform."
+        ],
+        "reasons_for_scores": [
+          "The catchy phrase 'Turn interest into applications, FASTER.' grabs attention.",
+          "The color scheme is visually appealing and aligns with the brand.",
+          "The text is clear and easy to read, enhancing comprehension."
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "d885778e-25ab-4546-87d6-ee8dee00549f",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0012.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "An advertisement promoting a $2,000 scholarship with no essay requirement, aimed at college students.",
+        "catchiness_level": 7,
+        "aesthetics_score": 6,
+        "readability_score": 8,
+        "brand_fit_score": 7,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "education",
+        "detected_text": [
+          "$2,000 to put toward college could be yours.",
+          "Apply for Niche's $2k no essay scholarship in minutes for a chance to win.",
+          "SEPTEMBER",
+          "$2K Scholarship",
+          "No Essay",
+          "DEADLINE: SEPT 30"
+        ],
+        "detected_logos": [
+          "Niche"
+        ],
+        "objects": [
+          "pencil",
+          "apple",
+          "money",
+          "books"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "green",
+            "white",
+            "red",
+            "yellow"
+          ],
+          "composition_notes": "Centered text with a playful background, featuring educational icons.",
+          "style_keywords": [
+            "playful",
+            "informative",
+            "youthful"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "18-24"
+          ],
+          "interests": [
+            "college",
+            "scholarships",
+            "education",
+            "financial aid"
+          ],
+          "regions": [
+            "United States"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "TikTok"
+        ],
+        "improvement_suggestions": [
+          "Increase contrast for better readability",
+          "Add a call-to-action button",
+          "Include testimonials or success stories"
+        ],
+        "reasons_for_scores": [
+          "Clear and concise message",
+          "Appealing visuals and colors",
+          "Targeted towards students seeking financial aid"
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 6,
+          "readability": 8,
+          "brandFit": 7,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "ced6a4ee-9a1a-4bb2-80a9-85269f59ab0e",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0013.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "An advertisement for Freeway Insurance promoting auto insurance savings.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "Insurance",
+        "detected_text": [
+          "Stop overpaying by hundreds of dollars for your auto insurance.",
+          "Compare and Save up to 30% on your Auto Insurance Today!",
+          "Best Offer",
+          "$29.99 monthly",
+          "$34.50 monthly",
+          "$85.13 monthly",
+          "$102.37 monthly",
+          "Check Rates"
+        ],
+        "detected_logos": [
+          "Freeway Insurance"
+        ],
+        "objects": [
+          "smartphone",
+          "price tags",
+          "call to action button"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "blue",
+            "green",
+            "white",
+            "pink"
+          ],
+          "composition_notes": "The layout is clean and organized, with a clear call to action and pricing information prominently displayed.",
+          "style_keywords": [
+            "modern",
+            "clean",
+            "professional"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "18-65"
+          ],
+          "interests": [
+            "auto insurance",
+            "savings",
+            "financial planning"
+          ],
+          "regions": [
+            "United States"
+          ]
+        },
+        "best_platforms": [
+          "Facebook",
+          "Instagram",
+          "Google Ads"
+        ],
+        "improvement_suggestions": [
+          "Add customer testimonials for credibility.",
+          "Include a limited-time offer to create urgency."
+        ],
+        "reasons_for_scores": [
+          "The ad has a clear and engaging message that resonates with potential customers.",
+          "The color scheme is visually appealing and aligns with the brand identity.",
+          "The pricing information is straightforward and easy to read."
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "027e0de7-fb6d-4a01-b36e-997538957d96",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0014.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "An advertisement promoting car insurance with a clear offer and vibrant visuals.",
+        "catchiness_level": 8,
+        "aesthetics_score": 7,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informative",
+        "product_category": "Insurance",
+        "detected_text": [
+          "Get a FREE Quote",
+          "Get Car Insurance",
+          "AS LOW AS $1.50 A DAY*",
+          "Get Cheaper Auto Insurance Today! English and Spanish Speaking Agents."
+        ],
+        "detected_logos": [
+          "Freeway Insurance"
+        ],
+        "objects": [
+          "car",
+          "palm trees",
+          "background",
+          "text"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "blue",
+            "green",
+            "white"
+          ],
+          "composition_notes": "Centered car with palm trees on either side, bright background.",
+          "style_keywords": [
+            "modern",
+            "clean",
+            "vibrant"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "18-34",
+            "35-54"
+          ],
+          "interests": [
+            "car insurance",
+            "savings",
+            "financial services"
+          ],
+          "regions": [
+            "North America"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Twitter"
+        ],
+        "improvement_suggestions": [
+          "Add a call-to-action button",
+          "Include customer testimonials",
+          "Highlight additional benefits"
+        ],
+        "reasons_for_scores": [
+          "Strong visual appeal with bright colors",
+          "Clear and concise messaging",
+          "Effective use of promotional pricing"
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 7,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "66418d18-8e3d-4672-b9ab-b502897a4317",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0015.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "An advertisement promoting a sale on bone broth protein featuring a smiling individual holding two product bags.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "enthusiastic",
+        "product_category": "dietary supplements",
+        "detected_text": [
+          "Huge Sale Alert! This is your chance to stock up and save big on the cleanest bone broth protein out there.",
+          "Paleovalley's Grass Fed Bone Broth Protein is ...",
+          "HUGE sale on Paleovalley's Bone Broth protein!!",
+          "Get it BOGO!"
+        ],
+        "detected_logos": [
+          "Paleovalley"
+        ],
+        "objects": [
+          "bone broth protein bags",
+          "smiling individual"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "blue",
+            "white",
+            "brown"
+          ],
+          "composition_notes": "The individual is centered, holding products, with a bright and inviting kitchen background.",
+          "style_keywords": [
+            "bright",
+            "clean",
+            "inviting"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "25-45"
+          ],
+          "interests": [
+            "health",
+            "fitness",
+            "nutrition",
+            "dietary supplements"
+          ],
+          "regions": [
+            "North America"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Pinterest"
+        ],
+        "improvement_suggestions": [
+          "Add a call-to-action button for immediate purchase",
+          "Include customer testimonials for credibility"
+        ],
+        "reasons_for_scores": [
+          "The vibrant colors and smiling individual enhance catchiness and aesthetics.",
+          "Clear and concise text improves readability and brand fit.",
+          "The promotional message is likely to resonate with health-conscious consumers."
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "68d95050-b5b8-4f85-bd9b-fd65a41c9986",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0016.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "An advertisement promoting a discount on collagen protein products, emphasizing quality and customer satisfaction.",
+        "catchiness_level": 7,
+        "aesthetics_score": 6,
+        "readability_score": 8,
+        "brand_fit_score": 9,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "informal",
+        "product_category": "health and wellness",
+        "detected_text": [
+          "WE MESSED UP...",
+          "100% grass fed AND finished cows",
+          "Clean, high quality, collagen-rich protein",
+          "Tasty flavors to easily add into your coffee, smoothies, and savory recipes",
+          "50% OFF",
+          "Paleovalley"
+        ],
+        "detected_logos": [
+          "paleovalley"
+        ],
+        "objects": [
+          "text",
+          "logo"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "black",
+            "white"
+          ],
+          "composition_notes": "Centered text with a clear call to action and discount offer.",
+          "style_keywords": [
+            "informal",
+            "conversational",
+            "promotional"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "20-30",
+            "30-40"
+          ],
+          "interests": [
+            "health",
+            "fitness",
+            "nutrition",
+            "wellness"
+          ],
+          "regions": [
+            "North America",
+            "Europe"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Twitter"
+        ],
+        "improvement_suggestions": [
+          "Use more visuals to showcase the product",
+          "Include customer testimonials",
+          "Add a clear call-to-action button"
+        ],
+        "reasons_for_scores": [
+          "Catchiness is high due to the informal tone and discount offer.",
+          "Aesthetics are decent but could be improved with more visuals.",
+          "Readability is strong with clear and concise text.",
+          "Brand fit is high as it aligns with health-conscious consumers.",
+          "Memorability is good due to the unique offer and conversational tone."
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 6,
+          "readability": 8,
+          "brandFit": 9,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "c0e66022-f2fb-47bb-ba06-5bedf8e3f90d",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0017.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "An advertisement for Movado watches featuring a two-toned bracelet watch with a black dial.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 9,
+        "brand_fit_score": 9,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "elegant",
+        "product_category": "watches",
+        "detected_text": [
+          "Beautiful design meets expert craftsmanship to match your style.",
+          "Discover Movado Watches.",
+          "Movado | Museum Classic",
+          "Men's Two-Toned Bracelet..."
+        ],
+        "detected_logos": [
+          "Movado"
+        ],
+        "objects": [
+          "watch"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "black",
+            "gold",
+            "silver"
+          ],
+          "composition_notes": "The watch is centered with a clean background, emphasizing its design.",
+          "style_keywords": [
+            "luxury",
+            "modern",
+            "sophisticated"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "25-45"
+          ],
+          "interests": [
+            "fashion",
+            "luxury goods",
+            "timepieces"
+          ],
+          "regions": [
+            "North America",
+            "Europe"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Pinterest"
+        ],
+        "improvement_suggestions": [
+          "Include a lifestyle image showing the watch being worn.",
+          "Add a call-to-action that emphasizes urgency, like 'Limited Time Offer'."
+        ],
+        "reasons_for_scores": [
+          "The elegant design and color scheme appeal to luxury consumers.",
+          "High readability due to clear font and concise messaging.",
+          "Strong brand fit with Movado's reputation for quality."
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 9,
+          "brandFit": 9,
+          "memorability": 7
+        }
+      }
+    },
+    {
+      "id": "98921101-3ba4-4ec8-9e31-0df8a874112d",
+      "url": "https://s3-calhacks.s3.us-east-2.amazonaws.com/i0018.png",
+      "type": "image",
+      "status": "done",
+      "result": {
+        "asset_type": "image",
+        "summary": "An advertisement featuring a male model showcasing a Movado watch, emphasizing style and sophistication.",
+        "catchiness_level": 7,
+        "aesthetics_score": 8,
+        "readability_score": 9,
+        "brand_fit_score": 8,
+        "memorability_score": 7,
+        "sentiment": "positive",
+        "tone": "sophisticated",
+        "product_category": "watches",
+        "detected_text": [
+          "Christian McCaffrey wears Museum Imperiale",
+          "MOVADO",
+          "Shop Now",
+          "movado Lock into the moment with Christian McCaffrey. Styled in Museum Imperiale."
+        ],
+        "detected_logos": [
+          "MOVADO"
+        ],
+        "objects": [
+          "watch",
+          "model",
+          "sweater"
+        ],
+        "audio_visual_signals": {
+          "color_palette": [
+            "black",
+            "white",
+            "silver",
+            "blue"
+          ],
+          "composition_notes": "The model is positioned to highlight the watch, with a clean and minimalistic background that enhances focus on the product.",
+          "style_keywords": [
+            "sophisticated",
+            "modern",
+            "luxury"
+          ]
+        },
+        "target_audience": {
+          "age_ranges": [
+            "25-45"
+          ],
+          "interests": [
+            "fashion",
+            "luxury goods",
+            "sports",
+            "watches"
+          ],
+          "regions": [
+            "North America",
+            "Europe"
+          ]
+        },
+        "best_platforms": [
+          "Instagram",
+          "Facebook",
+          "Pinterest"
+        ],
+        "improvement_suggestions": [
+          "Incorporate a call-to-action that emphasizes urgency.",
+          "Use a more diverse model to appeal to a broader audience."
+        ],
+        "reasons_for_scores": [
+          "High aesthetics due to clean design and color palette.",
+          "Strong readability with clear text and minimal distractions.",
+          "Good brand fit as it aligns with luxury watch branding.",
+          "Memorable due to the celebrity endorsement."
+        ],
+        "dimension_profile": {
+          "creative_attention": 8,
+          "aesthetics": 8,
+          "readability": 9,
+          "brandFit": 8,
+          "memorability": 7
+        }
+      }
+    }
+  ],
+  "createdAt": "2025-10-26T00:28:18.352Z",
+  "updatedAt": "2025-10-26T01:40:40.167Z"
+}

@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: ad-analytics-api
+    env: node
+    region: oregon
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: LAVA_BEARER
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-4o-mini
+      - key: BATCH_CONCURRENCY
+        value: "4"
+      - key: PORT
+        value: "10000"
+      - key: DATA_DIR
+        value: /var/data
+      - key: CORS_ORIGIN
+        value: "*"
+    disk:
+      name: ad-analytics-disk
+      mountPath: /var/data
+      sizeGB: 1
