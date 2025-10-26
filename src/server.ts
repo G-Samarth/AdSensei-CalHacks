@@ -10,13 +10,17 @@ import { analyzeWithOpenAI } from "./openaiClient.js";
 import { buildAllInsights } from "./aggregations.js";
 import cors from "cors";
 
+const raw = process.env.CORS_ORIGIN?.trim();
+const allowlist = raw && raw !== "" ? raw.split(",").map((s) => s.trim()) : [];
+const corsOrigin: any = !raw || raw === "" ? "" : allowlist;
+
 const app = express();
 
 app.use(express.json({ limit: "10mb" }));
 
 app.use(
   cors({
-    origin: process.env.CORS_ORIGIN ? process.env.CORS_ORIGIN.split(",") : "*",
+    origin: corsOrigin,
     methods: ["GET", "POST", "OPTIONS"],
     allowedHeaders: [
       "Content-Type",
